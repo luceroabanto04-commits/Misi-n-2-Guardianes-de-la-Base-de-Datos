@@ -82,4 +82,4 @@ Diseño de modelo MER.
 - Funciones de agregación (SUM, COUNT, AVG).
 - Creación de vistas para reutilización de consultas.
 
-✍️ Autor: Lucero Leidy Abanto Silva
+✍️ Autor: Lucero Abanto
